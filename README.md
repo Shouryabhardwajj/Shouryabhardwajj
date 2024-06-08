@@ -33,10 +33,6 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
     <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </div>
 
-  <h3 align="left">🗄️ Databases:</h3>
-  <div align="left">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
   </div>
 
@@ -49,14 +45,7 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
 
  </div>
 
-  <h3 align="left">🔧 API & Tools:</h3>
-  <div align="left">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  </div>
-</div>
+
 
 <br>
 <div align="center">
