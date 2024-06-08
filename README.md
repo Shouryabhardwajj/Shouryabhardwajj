@@ -19,6 +19,15 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
   <a href="https://www.instagram.com/shourya_bhardwajj"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" />
+</div>
+<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryabhardwajj&" alt="shouryabhardwajj" />
+</p>
+
 <div>
   <h3 align="left">📊 Tech Stack:</h3>
   <div align="left">
@@ -59,13 +68,6 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
 </div>
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" />
-</div>
-<br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryabhardwajj&" alt="shouryabhardwajj" />
-</p>
+
 
 
