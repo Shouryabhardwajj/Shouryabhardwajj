@@ -59,10 +59,20 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
 </div>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 20px;" />
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" style="margin-left: 20px;" />
+<p align="center">
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" />
+      </td>
+      <td style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" />
+      </td>
+    </tr>
+  </table>
+</p>
 <br>
- <p align="center">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shouryabhardwajj&" alt="shouryabhardwajj" />
 </p>
+
