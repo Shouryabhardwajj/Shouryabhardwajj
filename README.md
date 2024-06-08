@@ -49,7 +49,7 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 50px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" />
 </div>
 <br>
