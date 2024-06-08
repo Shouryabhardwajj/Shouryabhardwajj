@@ -1,7 +1,7 @@
 
 <p><h1 align="center">Hi 👋, I'm Shourya Bhardwaj</h1></p>
 <h3 align="center">I'm a self-taught passionate Data Scientist from India 🇮🇳</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="500">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="350" height="250">
 
 
 **About me**
