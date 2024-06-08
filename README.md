@@ -1,6 +1,7 @@
-<p><h1 align="center">Hi 👋, I'm Shourya Bhardwaj</h1></p>
 
-I'm a self-taught passionate Data Scientist from India 🇮🇳
+<p><h1 align="center">Hi 👋, I'm Shourya Bhardwaj</h1></p>
+<h3 align="center">I'm a self-taught passionate Data Scientist from India 🇮🇳</h3>
+<img src align="right" alt="coding" width="500 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 **About me**
 - 🌱 I’m currently learning **Deep Learning and LLM**
@@ -46,8 +47,9 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
  
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 30px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" style="margin-right: 30px;"" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" />
+
 </div>
 <br>
 <p align="center">
