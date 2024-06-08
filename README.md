@@ -13,18 +13,10 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/shouryabhardwajj/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/shourya29621872" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:shouryabhardwaj19@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/shourya_bhardwajj">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/shouryabhardwajj/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/shourya29621872" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:shouryabhardwaj19@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shourya_bhardwajj"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 <div>
@@ -39,16 +31,13 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
     <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
-    <img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-
   </div>
 
   <h3 align="left">🗄️ Databases:</h3>
   <div align="left">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
   </div>
 
   <h3 align="left">🚀 Deployment Tools:</h3>
@@ -69,21 +58,12 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
   </div>
 </div>
 
+<br><br>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" style="margin-left: 20px;" />
+</div>
 <br>
-<p align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" />
-      </td>
-      <td style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryabhardwajj&show_icons=true&locale=en&layout=compact" alt="shouryabhardwajj" />
-      </td>
-    </tr>
-  </table>
-</p>
-<br>
-<p align="center">
+ <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shouryabhardwajj&" alt="shouryabhardwajj" />
 </p>
-
