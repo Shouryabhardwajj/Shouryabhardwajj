@@ -25,6 +25,7 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%230C479C.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
@@ -35,18 +36,14 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
 
 
   </div>
-
   <h3 align="left">🚀 Deployment Tools:</h3>
   <div align="left">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-
  </div>
-
-
-
+ 
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shouryabhardwajj&show_icons=true&locale=en" alt="shouryabhardwajj" style="margin-right: 30px;" />
@@ -56,6 +53,3 @@ I'm a self-taught passionate Data Scientist from India 🇮🇳
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryabhardwajj&" alt="shouryabhardwajj" />
 </p>
-
-
-v
